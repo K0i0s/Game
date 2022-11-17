@@ -1,6 +1,6 @@
 # Game
 Juego como proyecto final de la materia de graficacion
-Controles:
+Controles: \n
 A o ← = Izquierda
 D o → = Derecha
 W o ↑ = Arriba 
